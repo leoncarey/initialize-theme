@@ -1,0 +1,11 @@
+{
+  "name": "initialize-theme",
+  "description": "initialize-theme",
+  "version": "0.0.0",
+  "main": "index.php",
+  "repository": "https://github.com/leoncarey/initialize-theme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {}
+}
