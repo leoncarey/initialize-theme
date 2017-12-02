@@ -1,9 +1,25 @@
 {
-  "name": "",
+  "name": "your_name",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
+  "scripts": {
+    "test": "runit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your_url_git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Leonardo Carey",
+  "license": "ISC",
+  "homepage": "your_url#readme",
   "dependencies": {
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-imagemin": "^2.4.0",
@@ -18,18 +34,5 @@
     "gulp-uglify": "^1.5.1",
     "merge-stream": "^1.0.0",
     "merge2": "^0.3.6"
-  },
-  "scripts": {
-    "test": "runit"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "keywords": [
-    ""
-  ],
-  "author": "Leonardo Carey",
-  "license": "ISC",
-  "homepage": "#readme"
+  }
 }
